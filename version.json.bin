@@ -1,7 +1,7 @@
 {
-  "version_code": 1,
-  "version_name": "0.1.0",
-  "sha256": "bcb8e97032ecb844550ac725bd144ea4d1d1d754558823974bb0666ebbb49036",
-  "apk_url": "https://gh-proxy.org/https://github.com/9cliuj/mokay-apk/raw/refs/heads/main/app-release.apk",
-  "release_notes": "mOkay Android 0.1.0"
+  "version_code": 2,
+  "version_name": "0.2.0",
+  "sha256": "2b3af5af1fd0f046b10d1268cd0eb1c9efcb2936abed81c2a499ec4270eb50ce",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.0/mokay-2.apk",
+  "release_notes": "新增账户信息、夜间模式、离线地图更新和App更新。"
 }
