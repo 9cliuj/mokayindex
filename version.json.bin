@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "0.2.0",
-  "sha256": "2b3af5af1fd0f046b10d1268cd0eb1c9efcb2936abed81c2a499ec4270eb50ce",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.0/mokay-2.apk",
-  "release_notes": "新增账户信息、夜间模式、离线地图更新和App更新。"
+  "version_code": 3,
+  "version_name": "0.2.1",
+  "sha256": "d4393f88ac698eda1cfe7d70cfd8fe02b024319eda6154bb6b48ae6b8abd3dbe",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.1/mokay-3.apk",
+  "release_notes": "优化时长计算器和 App 更新流程。"
 }
