@@ -1,7 +1,7 @@
 {
-  "version_code": 1,
+  "version_code": 4,
   "version_name": "0.2.2",
-  "sha256": "428619b849e8e44ba006409effee0ccdc2deae226a78d7a48cd850682f90863f",
+  "sha256": "f13a8f4cf29ff3eb9931477efe4f57b9ea3ff900e48c94ad0bda43159652e997",
   "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.2/mokay.apk",
   "release_notes": "优化时长计算器和 App 更新流程。"
 }
