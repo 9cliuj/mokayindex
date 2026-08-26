@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "0.2.2",
-  "sha256": "f13a8f4cf29ff3eb9931477efe4f57b9ea3ff900e48c94ad0bda43159652e997",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.2/mokay.apk",
-  "release_notes": "优化时长计算器和 App 更新流程。"
+  "version_code": 5,
+  "version_name": "0.2.3",
+  "sha256": "41f146e34fe8ceb427169bbd70c0105388a60b7137b8831b9d3956039af9be07",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.3/mokay.apk",
+  "release_notes": "机场资料可以阅读相关通告，检查员可以提交检查单"
 }
