@@ -1,7 +1,7 @@
 {
-  "version_code": 5,
-  "version_name": "0.2.3",
-  "sha256": "41f146e34fe8ceb427169bbd70c0105388a60b7137b8831b9d3956039af9be07",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.2.3/mokay.apk",
-  "release_notes": "机场资料可以阅读相关通告，检查员可以提交检查单"
+  "version_code": 6,
+  "version_name": "0.3.0",
+  "sha256": "b3370c934bf99e8ccfc3b95744dd96e14cc27c1a44f5819deacf5b3fd4fb9b3d",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.3.0/mokay.apk",
+  "release_notes": "可以提交检查申请，工具新增等待航线"
 }
