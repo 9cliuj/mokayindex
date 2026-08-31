@@ -1,7 +1,7 @@
 {
-  "version_code": 6,
-  "version_name": "0.3.0",
-  "sha256": "b3370c934bf99e8ccfc3b95744dd96e14cc27c1a44f5819deacf5b3fd4fb9b3d",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.3.0/mokay.apk",
-  "release_notes": "可以提交检查申请，工具新增等待航线"
+  "version_code": 7,
+  "version_name": "0.3.1",
+  "sha256": "f416a0cdef5385d7787d9c1dede1454fcc133bbc39892003d6521c063eabe71a",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.3.1/mokay.apk",
+  "release_notes": "优化UI，修复了部分bug"
 }
