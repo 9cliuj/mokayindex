@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
+  "version_code": 8,
   "version_name": "0.3.1",
-  "sha256": "f416a0cdef5385d7787d9c1dede1454fcc133bbc39892003d6521c063eabe71a",
+  "sha256": "71a6b504bf6c74940dcaa980a0f5e74d1df99951260f2a7de85e8fad9ce080cd",
   "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.3.1/mokay.apk",
   "release_notes": "优化UI，修复了部分bug"
 }
