@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="mOkay 隐私政策">
+  <title>mOkay 隐私政策</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17212b;
+      --muted: #5f6d78;
+      --line: #dfe7ec;
+      --wash: #f3f8fa;
+      --accent: #087f8c;
+      --accent-soft: #dff4f2;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: linear-gradient(180deg, var(--wash), #fff 360px);
+      color: var(--ink);
+      font: 16px/1.75 -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+    .wrap { width: min(100% - 32px, 800px); margin: 0 auto; padding: 56px 0 72px; }
+    header { margin-bottom: 28px; }
+    .eyebrow {
+      display: inline-block;
+      margin-bottom: 12px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: .04em;
+    }
+    h1 { margin: 0 0 8px; font-size: clamp(30px, 7vw, 46px); line-height: 1.2; letter-spacing: -.03em; }
+    .intro, .updated { margin: 0; color: var(--muted); }
+    .updated { margin-top: 8px; font-size: 14px; }
+    main { display: grid; gap: 14px; }
+    section {
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(255, 255, 255, .92);
+      box-shadow: 0 8px 24px rgba(30, 75, 88, .05);
+    }
+    h2 { margin: 0 0 10px; font-size: 20px; line-height: 1.35; }
+    p { margin: 8px 0; }
+    ul { margin: 8px 0 0; padding-left: 1.35em; }
+    li + li { margin-top: 5px; }
+    a { color: var(--accent); }
+    .notice { border-color: #b7e5e0; background: #f4fffd; }
+    footer { padding-top: 24px; color: var(--muted); font-size: 14px; text-align: center; }
+    @media (max-width: 560px) {
+      .wrap { width: min(100% - 24px, 800px); padding-top: 36px; }
+      section { padding: 20px; border-radius: 15px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <span class="eyebrow">mOkay</span>
+      <h1>隐私政策</h1>
+      <p class="intro">我们重视你的隐私，并尽量减少收集和使用与 mOkay 服务无关的信息。</p>
+      <p class="updated">生效日期：2026 年 9 月 4 日</p>
+    </header>
+
+    <main>
+      <section class="notice">
+        <h2>一、适用范围</h2>
+        <p>本政策适用于 mOkay 移动应用及其配套服务。mOkay 是个人开发的非官方飞行员工具，不替代任何公司正式运行文件、排班或运行指令。</p>
+      </section>
+
+      <section>
+        <h2>二、我们处理的信息</h2>
+        <ul>
+          <li><strong>账号信息：</strong>当你登录时，我们处理用于身份验证和提供服务的账号信息及账号状态。</li>
+          <li><strong>使用和业务数据：</strong>包括你查看的通告、已读或确认状态、航路查询参数以及应用设置，用于提供通告、航路和工具功能。</li>
+          <li><strong>推送信息：</strong>只有在你明确同意通知后，应用才会注册推送并创建匿名设备订阅标识，用于发送通用的新通告提醒。你可以随时在系统设置或 App 内关闭通知。</li>
+          <li><strong>本地数据：</strong>应用可能在设备本地保存登录凭据、通告附件、已下载资料、查询结果和设置，以支持离线使用。其中登录凭据使用 Apple Keychain 保存。</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>三、信息的用途</h2>
+        <ul>
+          <li>验证账号并提供登录后的功能；</li>
+          <li>展示、缓存和更新通告、航路资料、天气及相关工具结果；</li>
+          <li>在你同意后发送新的通告提醒，并处理你关闭通知或退出登录的请求；</li>
+          <li>保障服务安全、排查故障和改进稳定性。</li>
+        </ul>
+        <p>我们不会出售你的个人信息，也不会将其用于广告画像或跨应用跟踪。</p>
+      </section>
+
+      <section>
+        <h2>四、第三方服务</h2>
+        <p>为实现部分功能，mOkay 可能通过网络访问以下服务。第三方服务商会按照其自身政策处理相关网络请求或推送数据：</p>
+        <ul>
+          <li>极光 JPush：用于在你同意后提供推送服务，详见其<a href="https://www.jiguang.cn/license/privacy" rel="noopener noreferrer">隐私政策</a>；</li>
+          <li>AviationWeather.gov：用于获取航空天气数据；</li>
+          <li>RainViewer：用于提供雷达图数据。</li>
+        </ul>
+        <p>应用不请求或使用设备定位权限。天气和雷达服务可能根据你输入的机场或航路参数返回数据。</p>
+      </section>
+
+      <section>
+        <h2>五、信息的保存与安全</h2>
+        <p>我们在实现服务所需的期限内保存服务器端信息，并采取访问控制、HTTPS 传输、最小化推送标识和权限管理等措施保护信息。信息的保存期限会根据账号关系、服务需要和适用法律确定。</p>
+        <p>请勿在测试或使用过程中输入未经授权的公司内部运行资料、员工个人信息、账号密码或其他敏感数据。</p>
+      </section>
+
+      <section>
+        <h2>六、你的权利</h2>
+        <p>你可以在 App 内关闭推送、退出登录并清除设备上的本地数据。你也可以请求查询、更正或删除与你账号相关的信息；我们会在核实身份后，按照适用法律和服务实际情况处理。</p>
+      </section>
+
+      <section>
+        <h2>七、政策更新</h2>
+        <p>如果信息处理方式发生实质变化，我们会更新本页面的生效日期，并在适当位置提示你。继续使用 mOkay 即表示你已阅读更新后的政策。</p>
+      </section>
+
+      <section>
+        <h2>八、联系我们</h2>
+        <p>如对本政策或个人信息处理有疑问，请联系 mOkay 开发者：</p>
+        <p><strong>联系邮箱：</strong>请在发布前替换为你的公开联系邮箱</p>
+      </section>
+    </main>
+
+    <footer>© 2026 mOkay</footer>
+  </div>
+</body>
+</html>
