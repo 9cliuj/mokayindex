@@ -1,7 +1,7 @@
 {
-  "version_code": 8,
-  "version_name": "0.3.1",
-  "sha256": "71a6b504bf6c74940dcaa980a0f5e74d1df99951260f2a7de85e8fad9ce080cd",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.3.1/mokay.apk",
-  "release_notes": "优化UI，修复了部分bug"
+  "version_code": 9,
+  "version_name": "0.5.0",
+  "sha256": "0206ac88ced38349968a2287cbb951a7c47c032ec0426d9864415d67215fa81a",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.5.0/mokay.apk",
+  "release_notes": "优化UI，优化航路天气功能"
 }
