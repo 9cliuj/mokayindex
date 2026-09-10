@@ -1,6 +1,6 @@
 {
-  "version_code": 10,
-  "version_name": "0.6.0",
+  "version_code": 11,
+  "version_name": "0.6.1",
   "sha256": "9e3b7eee802a807584f1a99cc4a1f980a2cd083ee9b629ef39835cbd7e830338",
   "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.6.1/mokay.apk",
   "release_notes": "优化UI，新增随手记功能，新增今日飞行功能，修复了时长计算器bug"
