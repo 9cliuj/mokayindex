@@ -1,7 +1,7 @@
 {
-  "version_code": 13,
-  "version_name": "0.7.1",
-  "sha256": "bf58252abb8cf88844159e8b5a2fb0db1a590b9d175fd035905f2a70f7e52ec9",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.7.1/mokay.apk",
-  "release_notes": "优化飞行经历首次建档，新增全屏航班记录页，并修复选择时间时键盘反复弹出的问题。"
+  "version_code": 14,
+  "version_name": "0.7.2",
+  "sha256": "522ac62df699155a052436913557bb54247ec51acf5f48a75800b9e0e162b038",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.7.2/mokay.apk",
+  "release_notes": "优化飞行经历首次建档，优化了鸿蒙系统的体验"
 }
