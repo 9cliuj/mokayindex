@@ -1,7 +1,7 @@
 {
-  "version_code": 15,
-  "version_name": "0.7.3",
-  "sha256": "06ec1c9d40fcebfe0a60d687a887a29dc5fa49b18bbb4e21306548509e330380",
-  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.7.3/mokay.apk",
-  "release_notes": "新增能力增强入口，优化飞行经历与今日飞行界面，移除推送功能。"
+  "version_code": 16,
+  "version_name": "0.8.0",
+  "sha256": "591f11b78de860963be5b74e67679d8e5e78fb5474a8d0b0c8433a88a67e2a3a",
+  "apk_url": "https://v6.gh-proxy.org/https://github.com/9cliuj/mokayindex/releases/download/v0.8.0/mokay.apk",
+  "release_notes": "新增机场资料反馈功能，还优化了点东西"
 }
